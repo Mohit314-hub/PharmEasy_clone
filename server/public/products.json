@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/B36597/canesten-antifungal-dusting-powder-50g-2-1650970284.jpg",
+      "name": "Canesten Antifungal Dusting Powder 50",
+      "price": 58.4,
+      "OrigionalPrice": 73,
+      "offer": 20
+    },
+    {
+      "id": 2,
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/D95288/onetouch-select-plus-simple-glucometer-with-10-free-strips-2-1645456739.jpg",
+      "name": "Onetouch Select Plus Simple Glucometer With 10 Free Strips",
+      "price": 871,
+      "OrigionalPrice": 1147,
+      "offer": 24
+    },
+    {
+      "id": 3,
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/P91768/accusure-pulse-oximeter-2-1654234170.jpg",
+      "name": "Accusure Pulse Oximeter",
+      "price": 719,
+      "OrigionalPrice": 3999,
+      "offer": 82
+    },
+    {
+      "id": 4,
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/239997/luciara-cream-safe-guard-against-stretch-marks-50-g-1-1654078411.jpg",
+      "name": "Luciara Cream Safe-guard Against Stretch Marks",
+      "price": 416,
+      "OrigionalPrice": 595,
+      "offer": 30
+    }
+  ]
